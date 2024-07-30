@@ -1,4 +1,4 @@
-# SHAMS Library Template
+# SHAMS Library Template 📃
 This repository serves as a template to create future SHAMS libs from. It has most of the base configurations set up to get a new CMake library up and going to be used as part of the SHAMS ecosystem.
 
 ## Features
